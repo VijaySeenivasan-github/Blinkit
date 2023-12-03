@@ -1,0 +1,23 @@
+/*  your css code here. If applicable */
+.section2 {
+	overflow-x: scroll ;
+	overflow-y: auto ;
+	display :flex ;
+	margin :auto ;
+	gap:40px ;
+	}
+.section4 {
+	display :flex ;
+	overflow-x:scroll ;
+	overflow-y: auto ;
+	}
+.section3part {
+	display:flex ;
+}
+.large {
+	width :30px ;
+}
+.header {
+ position :inline-block ;
+display :felx ;
+}
